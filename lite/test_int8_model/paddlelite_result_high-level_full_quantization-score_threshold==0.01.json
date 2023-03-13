@@ -1,0 +1,15 @@
+{
+    "ppyoloe_crn_l_300e_coco_quant": {
+        "model_name": "ppyoloe_crn_l_300e_coco_quant",
+        "precision": "high-level_full_quantization-score_threshold==0.01",
+        "batch_size": 1,
+        "Accuracy": {
+            "value": 0.5035858260124108,
+            "unit": "mAP"
+        },
+        "Performance": {
+            "value": 10.78,
+            "unit": "ms"
+        }
+    }
+}

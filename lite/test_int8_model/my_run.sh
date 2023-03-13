@@ -1,0 +1,3 @@
+sh run_paddlelite_int8_high-level_full_quantization.sh
+sh run_paddlelite_int8_low-level_full_quantization.sh
+sh run_paddlelite_int8_medium-level_full_quantization.sh
